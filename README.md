@@ -8,7 +8,7 @@ Implémentation Python de la méthode décrite dans l'article :
 > Liebherr Components Colmar / Université de Strasbourg.
 > HAL : <https://hal.science/hal-05212213/> — DOI [10.5281/zenodo.15517911](https://doi.org/10.5281/zenodo.15517911)
 
-Ce code a été réécrit à partir de l'article (le code d'origine ayant été perdu). Il n'est **pas** le code
+Ce code a été réécrit à partir de l'article. Il n'est **pas** le code
 original et peut différer sur certains détails (voir « Écarts »).
 
 ## Principe
