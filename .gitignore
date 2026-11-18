@@ -1,0 +1,14 @@
+# Aucune donnée / document source dans le dépôt
+*.csv
+*.xlsx
+*.parquet
+*.pdf
+data/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Figures issues de données réelles (non publiées)
+images/filter_*.png
+images/overview.png
